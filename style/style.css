@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+.body{
+background-color:#3399CC;
+}
+.header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+.cities{
+    list-style-type: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    width: 600px;
+    height: 500px;
+    border: 2px solid white;
+    padding: 0;
+    margin-left: 375px;
+    font-size: 0;
+
+}
+.Lisbon{
+    display: inline-block;
+    border: 2px solid white;
+    width: 50%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#3399CC;
+}
+.Paris{
+    display: inline-block;
+    border: 2px solid white;
+    width: 25%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#33CCCC;
+}
+.Belgrade{
+    display: inline-block;
+    border: 2px solid white;
+    width: 25%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#996699;
+}
+.Moskow{
+    display: inline-block;
+    border: 2px solid white;
+    width: 25%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#C24747;
+}
+.Tel_Aviv{
+    display: inline-block;
+    border: 2px solid white;
+    width: 25%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#
+}
+.Cair{
+    display: inline-block;
+    border: 2px solid white;
+    width: 25%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#
+}
+.New_York{
+    display: inline-block;
+    border: 2px solid white;
+    width: 25%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#
+}
+.New_Delhi{
+    display: inline-block;
+    border: 2px solid white;
+    width: 25%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#
+}
+.San_Francisco{
+    display: inline-block;
+    border: 2px solid white;
+    width: 50%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#
+}
+.Tokyo{
+    display: inline-block;
+    border: 2px solid white;
+    width: 25%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#
+}
+.Sydney{
+    display: inline-block;
+    border: 2px solid white;
+    width: 100%;
+    height: 25%;
+    font-size: 18px;
+    background-color:#
+}
